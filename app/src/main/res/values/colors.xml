@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="white">#ffffff</color>
-    <color name="light-grey">#e9e8e8</color>
+    <color name="light_grey">#e9e8e8</color>
     <color name="orange">#F08C35</color>
-    <color name="vivid-orange">#f25900</color>
+    <color name="vivid_orange">#f25900</color>
 </resources>
